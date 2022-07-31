@@ -12,5 +12,5 @@ Android Developer
 
 ### Contact me
 
-[shokingm@gmail.com](mailto:shokingm@gmail.com)
-[changmu.seo@lge.com](mailto:changmu.seo@lge.com)
+[shokingm@gmail.com](mailto:shokingm@gmail.com)  
+
